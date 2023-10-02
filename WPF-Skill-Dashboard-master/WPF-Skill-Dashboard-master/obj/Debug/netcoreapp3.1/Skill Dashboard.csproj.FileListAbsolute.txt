@@ -1,0 +1,32 @@
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\Skill Dashboard.exe
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\Skill Dashboard.deps.json
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\Skill Dashboard.runtimeconfig.json
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\Skill Dashboard.runtimeconfig.dev.json
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\Skill Dashboard.dll
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\Skill Dashboard.pdb
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\FontAwesome.WPF.dll
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.csproj.AssemblyReference.cache
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\UserControls\Info.baml
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\UserControls\Lesson.baml
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\UserControls\User.baml
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\UserControls\Info.g.cs
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\UserControls\Lesson.g.cs
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\UserControls\User.g.cs
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard_MarkupCompile.cache
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard_MarkupCompile.lref
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.g.resources
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.AssemblyInfoInputs.cache
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.AssemblyInfo.cs
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.csproj.CopyComplete
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.dll
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.pdb
+C:\Users\Muhamad Faiz\Downloads\Compressed\WPF-Skill-Dashboard-master\WPF-Skill-Dashboard-master\obj\Debug\netcoreapp3.1\Skill Dashboard.genruntimeconfig.cache
